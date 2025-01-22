@@ -1,0 +1,658 @@
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.csproj.AssemblyReference.cache
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.FrmClientes.resources
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.FrmDados.resources
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.FrmDocumentos.resources
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.FrmLogin.resources
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.FrmProdutos.resources
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.Properties.Resources.resources
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.csproj.GenerateResource.cache
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.csproj.CoreCompileInputs.cache
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\TeleBerço.exe.config
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\TeleBerço.exe
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\TeleBerço.pdb
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.Charting.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.Quality.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.System.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Buffers.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Memory.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.ValueTuple.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.pdb
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.Charting.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.Quality.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.System.pdb
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.System.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Buffers.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Memory.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\System.ValueTuple.xml
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\synys\source\repos\TeleBerço\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.csproj.Up2Date
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.exe
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.pdb
+C:\Users\synys\source\repos\TeleBerço\obj\Debug\TeleBerço.FrmCat_Marca.resources
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.csproj.AssemblyReference.cache
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.exe
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.pdb
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\TeleBerço.exe.config
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\TeleBerço.exe
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\TeleBerço.pdb
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.Charting.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.Quality.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.System.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Buffers.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Memory.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.ValueTuple.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.pdb
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.Charting.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.Quality.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.System.pdb
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.System.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Buffers.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Memory.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\System.ValueTuple.xml
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.FrmCat_Marca.resources
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.FrmClientes.resources
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.FrmDados.resources
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.FrmDocumentos.resources
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.FrmLogin.resources
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.FrmProdutos.resources
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.Properties.Resources.resources
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.csproj.GenerateResource.cache
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.csproj.CoreCompileInputs.cache
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.csproj.Up2Date
+C:\Users\synys\source\repos\Gestao_Doc(Teleberco )\obj\Debug\TeleBerço.FrmStock.resources
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.csproj.AssemblyReference.cache
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.FrmCat_Marca.resources
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.FrmClientes.resources
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.FrmDados.resources
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.FrmDocumentos.resources
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.FrmLogin.resources
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.FrmProdutos.resources
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.FrmStock.resources
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.Properties.Resources.resources
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.csproj.GenerateResource.cache
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.csproj.CoreCompileInputs.cache
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.exe
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\TeleBerço.exe.config
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\TeleBerço.exe
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\TeleBerço.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.Charting.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.Quality.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.System.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Buffers.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Memory.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.ValueTuple.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.Charting.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.Quality.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.System.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.System.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Buffers.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Memory.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.ValueTuple.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\obj\Debug\TeleBerço.csproj.Up2Date
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\MailKit.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\MimeKit.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Formats.Asn1.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\MailKit.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\MailKit.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\MailKit.dll.config
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\MimeKit.pdb
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\MimeKit.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\System.Formats.Asn1.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.barcodes.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.commons.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.forms.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.io.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.kernel.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.layout.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.pdfa.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.pdfua.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.sign.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.styledxmlparser.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.svg.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.barcodes.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.commons.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.forms.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.io.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.kernel.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.layout.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.pdfa.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.pdfua.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.sign.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.styledxmlparser.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\itext.svg.xml
+C:\Users\synys\source\repos\sfw_Gestao_vendas_e_Clientes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.exe
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.FrmCat_Marca.resources
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.FrmClientes.resources
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.FrmDados.resources
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.FrmDocumentos.resources
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.FrmLogin.resources
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.FrmProdutos.resources
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.FrmStock.resources
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.Properties.Resources.resources
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\TeleBerço.exe.config
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\TeleBerço.exe
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\TeleBerço.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.barcodes.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.commons.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.forms.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.io.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.kernel.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.layout.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.pdfa.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.pdfua.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.sign.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.styledxmlparser.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.svg.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\MailKit.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\MimeKit.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.Charting.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.Quality.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.System.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Formats.Asn1.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.barcodes.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.commons.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.forms.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.io.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.kernel.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.layout.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.pdfa.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.pdfua.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.sign.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.styledxmlparser.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\itext.svg.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\MailKit.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\MailKit.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\MailKit.dll.config
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\MimeKit.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\MimeKit.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.Charting.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.Quality.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.System.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.System.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Formats.Asn1.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\USER\source\repos\sfw_Gestao_vendas_e_Clientes-Stock\obj\Debug\TeleBerço.csproj.Up2Date
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\TeleBerço.exe.config
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\TeleBerço.exe
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\TeleBerço.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.barcodes.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.commons.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.forms.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.io.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.kernel.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.layout.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.pdfa.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.pdfua.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.sign.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.styledxmlparser.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.svg.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MailKit.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MimeKit.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Charting.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Quality.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.System.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Buffers.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Formats.Asn1.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Memory.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.barcodes.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.commons.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.forms.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.io.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.kernel.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.layout.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.pdfa.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.pdfua.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.sign.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.styledxmlparser.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.svg.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MailKit.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MailKit.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MailKit.dll.config
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MimeKit.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MimeKit.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Charting.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Quality.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.System.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.System.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Buffers.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Formats.Asn1.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Memory.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmCat_Marca.resources
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmClientes.resources
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmDados.resources
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmDocumentos.resources
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmLogin.resources
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmProdutos.resources
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmStock.resources
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.csproj.Up2Date
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.exe
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\TeleBerço.exe.config
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\TeleBerço.exe
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\TeleBerço.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.barcodes.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.commons.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.forms.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.io.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.kernel.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.layout.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.pdfa.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.pdfua.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.sign.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.styledxmlparser.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.svg.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\MailKit.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\MimeKit.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Charting.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Quality.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.System.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Formats.Asn1.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.barcodes.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.commons.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.forms.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.io.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.kernel.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.layout.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.pdfa.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.pdfua.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.sign.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.styledxmlparser.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\itext.svg.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\MailKit.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\MailKit.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\MailKit.dll.config
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\MimeKit.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\MimeKit.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Charting.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Quality.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.System.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.System.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Formats.Asn1.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmCat_Marca.resources
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmClientes.resources
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmDados.resources
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmDocumentos.resources
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmLogin.resources
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmProdutos.resources
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmStock.resources
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.Properties.Resources.resources
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.csproj.Up2Date
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.exe
+C:\Users\USER\source\repos\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.exe
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\TeleBerço.exe.config
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\TeleBerço.exe
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\TeleBerço.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.barcodes.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.commons.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.forms.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.io.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.kernel.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.layout.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.pdfa.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.pdfua.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.sign.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.styledxmlparser.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.svg.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\MailKit.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\MimeKit.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.Charting.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.Quality.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.System.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Buffers.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Formats.Asn1.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Memory.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.barcodes.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.commons.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.forms.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.io.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.kernel.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.layout.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.pdfa.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.pdfua.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.sign.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.styledxmlparser.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\itext.svg.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\MailKit.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\MailKit.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\MailKit.dll.config
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\MimeKit.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\MimeKit.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.Charting.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.Quality.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.System.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.System.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Buffers.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Formats.Asn1.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Memory.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.FrmCat_Marca.resources
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.FrmClientes.resources
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.FrmDados.resources
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.FrmDocumentos.resources
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.FrmLogin.resources
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.FrmProdutos.resources
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.FrmStock.resources
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.Properties.Resources.resources
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\obj\Debug\TeleBerço.csproj.Up2Date
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\Morada2.jpeg
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\transferir.jpeg
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\teleberço.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\user_customer_man_14016.ico
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\security-protection-protect-key-password-login_108554.ico
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\password_locked_safety_protection_secure_security_lock_padlocks_padlock_icon_210837.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\btnSalvarInativo.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\message_file_documents_document_pen_edit_pen_paper_write_icon_210833.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\add_yellow_button_icon_227864.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\arrow_back_previous_left_return_undo_icon_258802.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\file_document_new_contract_icon_131249.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\1486506267-grid-home-menu-options-squares-table_81451.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\TrashEmpty_37037.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\23-Full_Trash_256x256_35388.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\print_46933.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\save_78348.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\export_106661.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\1486505366-exit-export-out-send-sending-archive-outside_81436.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\Newfile_page_document_empty_6315.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\logout_off_exit_14655.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\applicationexit_104351.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\back1_89375.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\Logout_37127.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\business_man_user_support_supportfortheuser_aquestion_theclient_2330 (1).png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\file_archive_storage_folder_document_files_icon_228416.png
+C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\buscar.png

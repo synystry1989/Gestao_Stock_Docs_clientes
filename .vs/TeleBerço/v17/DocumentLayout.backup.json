@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|c:\\users\\user\\downloads\\gestaostock_docs_clientes-last_changes\\gestaostock_docs_clientes-last_changes\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TeleBer\u00E7o||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|c:\\users\\user\\downloads\\gestaostock_docs_clientes-last_changes\\gestaostock_docs_clientes-last_changes\\formularios\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmdados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\datasets\\dsclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\datasets\\dsclientes.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsclientes.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\datasets\\dsprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmcat_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmcat_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\formularios\\frmcat_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmcat_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\datasets\\dsdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\datasets\\dsstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\datasets\\dsdocumentos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsdocumentos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\datasets\\dsdocumentos.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsdocumentos.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\datasets\\dsstock.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsstock.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|c:\\users\\user\\downloads\\gestaostock_docs_clientes-last_changes\\gestaostock_docs_clientes-last_changes\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDados.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDados.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmDados.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDados.cs",
+              "RelativeToolTip": "Formularios\\FrmDados.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwJICAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:30:28.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmProdutos.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmProdutos.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmProdutos.cs",
+              "RelativeToolTip": "Formularios\\FrmProdutos.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv0YAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:06:49.87Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmStock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmStock.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmStock.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmStock.cs [Design]",
+              "RelativeToolTip": "Formularios\\FrmStock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:51:02.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDados.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmDados.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDados.cs [Design]",
+              "RelativeToolTip": "Formularios\\FrmDados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:34:10.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmClientes.cs",
+              "RelativeToolTip": "Formularios\\FrmClientes.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAWwEcBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:57:32.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmStock.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmStock.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmStock.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmStock.cs",
+              "RelativeToolTip": "Formularios\\FrmStock.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwPsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:17:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmProdutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmProdutos.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmProdutos.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmProdutos.cs [Design]",
+              "RelativeToolTip": "Formularios\\FrmProdutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:29:21.873Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDocumentos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDocumentos.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmDocumentos.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDocumentos.cs",
+              "RelativeToolTip": "Formularios\\FrmDocumentos.cs",
+              "ViewState": "AgIAANgHAAAAAAAAAAAAAPcHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:03:49.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeleBer\u00E7o",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\TeleBer\u00E7o.csproj",
+              "RelativeDocumentMoniker": "TeleBer\u00E7o.csproj",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\TeleBer\u00E7o.csproj",
+              "RelativeToolTip": "TeleBer\u00E7o.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-22T15:17:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T15:18:10.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDocumentos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDocumentos.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmDocumentos.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDocumentos.cs [Design]",
+              "RelativeToolTip": "Formularios\\FrmDocumentos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:41:42.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmDados.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDados.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmDados.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmDados.Designer.cs",
+              "RelativeToolTip": "Formularios\\FrmDados.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADgv3kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:54:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmClientes.cs [Design]",
+              "RelativeToolTip": "Formularios\\FrmClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:56:18.822Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DsClientes.xsd",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsClientes.xsd",
+              "RelativeDocumentMoniker": "Datasets\\DsClientes.xsd",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsClientes.xsd",
+              "RelativeToolTip": "Datasets\\DsClientes.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-07T18:50:38.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DsClientes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsClientes.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsClientes.cs",
+              "RelativeToolTip": "Datasets\\DsClientes.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswLoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:50:41.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Formularios\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:47:52.44Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "Formularios\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:36:52.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmLogin.cs",
+              "RelativeToolTip": "Formularios\\FrmLogin.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:13:24.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmCat_Marca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmCat_Marca.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmCat_Marca.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmCat_Marca.cs [Design]",
+              "RelativeToolTip": "Formularios\\FrmCat_Marca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:02:06.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DsStock.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsStock.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsStock.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsStock.cs",
+              "RelativeToolTip": "Datasets\\DsStock.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAywG8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:50:06.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DsProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsProdutos.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsProdutos.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsProdutos.cs",
+              "RelativeToolTip": "Datasets\\DsProdutos.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAADwv8oAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:00:38.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmCat_Marca.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmCat_Marca.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmCat_Marca.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Formularios\\FrmCat_Marca.cs",
+              "RelativeToolTip": "Formularios\\FrmCat_Marca.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswJ0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:02:08.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DsDocumentos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsDocumentos.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsDocumentos.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsDocumentos.cs",
+              "RelativeToolTip": "Datasets\\DsDocumentos.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAASwEwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:58:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DsDocumentos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsDocumentos.Designer.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsDocumentos.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsDocumentos.Designer.cs",
+              "RelativeToolTip": "Datasets\\DsDocumentos.Designer.cs",
+              "ViewState": "AgIAAPgMAAAAAAAAAAAnwA0NAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:03:35.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DsDocumentos.xsd",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsDocumentos.xsd",
+              "RelativeDocumentMoniker": "Datasets\\DsDocumentos.xsd",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsDocumentos.xsd",
+              "RelativeToolTip": "Datasets\\DsDocumentos.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-07T21:57:57.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DsStock.xsd",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsStock.xsd",
+              "RelativeDocumentMoniker": "Datasets\\DsStock.xsd",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\GestaoStock_Docs_clientes-last_changes\\GestaoStock_Docs_clientes-last_changes\\Datasets\\DsStock.xsd",
+              "RelativeToolTip": "Datasets\\DsStock.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-07T21:49:51.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
