@@ -656,3 +656,29 @@ C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_
 C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\business_man_user_support_supportfortheuser_aquestion_theclient_2330 (1).png
 C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\file_archive_storage_folder_document_files_icon_228416.png
 C:\Users\USER\Downloads\GestaoStock_Docs_clientes-last_changes\GestaoStock_Docs_clientes-last_changes\bin\Debug\Resources\buscar.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\Morada2.jpeg
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\transferir.jpeg
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\teleberço.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\user_customer_man_14016.ico
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\security-protection-protect-key-password-login_108554.ico
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\password_locked_safety_protection_secure_security_lock_padlocks_padlock_icon_210837.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\btnSalvarInativo.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\message_file_documents_document_pen_edit_pen_paper_write_icon_210833.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\add_yellow_button_icon_227864.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\arrow_back_previous_left_return_undo_icon_258802.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\file_document_new_contract_icon_131249.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\1486506267-grid-home-menu-options-squares-table_81451.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\TrashEmpty_37037.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\23-Full_Trash_256x256_35388.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\print_46933.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\save_78348.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\export_106661.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\1486505366-exit-export-out-send-sending-archive-outside_81436.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\Newfile_page_document_empty_6315.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\logout_off_exit_14655.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\applicationexit_104351.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\back1_89375.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\Logout_37127.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\business_man_user_support_supportfortheuser_aquestion_theclient_2330 (1).png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\file_archive_storage_folder_document_files_icon_228416.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\buscar.png

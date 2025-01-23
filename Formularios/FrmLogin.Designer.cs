@@ -137,6 +137,7 @@
             this.chckLembrar.TabIndex = 20;
             this.chckLembrar.Text = "Lembrar-me";
             this.chckLembrar.UseVisualStyleBackColor = true;
+            this.chckLembrar.CheckedChanged += new System.EventHandler(this.chckLembrar_CheckedChanged);
             // 
             // panelSucecss
             // 
