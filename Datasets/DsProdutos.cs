@@ -44,7 +44,7 @@ namespace TeleBerço.Datasets
 
         public string DaNomeCategoria(string cod)
         {
-           return CategoriasTableAdapter.NomeCategoria(cod);
+            return CategoriasTableAdapter.NomeCategoria(cod);
         }
 
         public string DaNomeMarca(int id)
@@ -178,19 +178,19 @@ namespace TeleBerço.Datasets
                 linhaSelecionada?.Delete();
                 UpdateArtigos();
             }
-          
+
         }
 
         public void EliminarCat(string id)
         {
             CarregaCategorias();
             CategoriasRow linhaSelecionada = Categorias.FindByCodCat(id);
-            if(linhaSelecionada.CodCat!="N/A")
+            if (linhaSelecionada.CodCat != "N/A")
             {
                 linhaSelecionada?.Delete();
                 UpdateCategorias();
             }
-          
+
         }
         public void EliminarMarca(int id)
         {

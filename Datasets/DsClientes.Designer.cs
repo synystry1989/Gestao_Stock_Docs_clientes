@@ -1395,8 +1395,8 @@ namespace TeleBerço.Datasets.DsClientesTableAdapters {
             this._adapter.InsertCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
             this._adapter.InsertCommand.CommandText = "INSERT INTO [dbo].[Clientes] ([CodCl], [Nome], [Email], [Telefone]) VALUES (@CodC" +
-                "l, @Nome, @Email, @Telefone);\r\nSELECT CodCl, Nome, Email, Telefone FROM Clientes" +
-                " WHERE (CodCl = @CodCl)";
+                "l, @Nome, @Email, @Telefone);\nSELECT CodCl, Nome, Email, Telefone FROM Clientes " +
+                "WHERE (CodCl = @CodCl)";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@CodCl", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "CodCl", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Nome", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Nome", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
@@ -1445,7 +1445,7 @@ SELECT CodCl, Nome, Email, Telefone FROM Clientes WHERE (CodCl = @CodCl)";
             this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@codCl", global::System.Data.SqlDbType.NVarChar, 20, global::System.Data.ParameterDirection.Input, 0, 0, "CodCl", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._commandCollection[3] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[3].Connection = this.Connection;
-            this._commandCollection[3].CommandText = "SELECT TOP 1 CodCl\r\n    FROM Clientes\r\n    ORDER BY CodCl DESC";
+            this._commandCollection[3].CommandText = "SELECT TOP 1 CodCl\n    FROM Clientes\n    ORDER BY CodCl DESC";
             this._commandCollection[3].CommandType = global::System.Data.CommandType.Text;
         }
         

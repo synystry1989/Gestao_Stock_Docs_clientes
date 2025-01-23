@@ -167,13 +167,13 @@ namespace TeleBerço.Datasets
         public void EliminarCliente(string id)
         {
             ClientesRow linhaSelecionada = Clientes.FindByCodCl(id);
-            if(linhaSelecionada.CodCl!="CL000")
+            if (linhaSelecionada.CodCl != "CL000")
             {
                 linhaSelecionada?.Delete();
 
                 UpdateClientes();
             }
-        
+
         }
 
         public void EliminarFornecedor(string id)

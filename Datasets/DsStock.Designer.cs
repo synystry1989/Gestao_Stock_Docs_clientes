@@ -1874,8 +1874,8 @@ namespace TeleBerço.Datasets.DsStockTableAdapters {
             this._adapter.InsertCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
             this._adapter.InsertCommand.CommandText = "INSERT INTO [dbo].[Armazem] ([ProdutoID], [Quantidade]) VALUES (@ProdutoID, @Quan" +
-                "tidade);\r\nSELECT ProdutoID, Quantidade FROM Armazem WHERE (ProdutoID = @ProdutoI" +
-                "D)";
+                "tidade);\nSELECT ProdutoID, Quantidade FROM Armazem WHERE (ProdutoID = @ProdutoID" +
+                ")";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@ProdutoID", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "ProdutoID", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Quantidade", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Quantidade", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
@@ -1883,7 +1883,7 @@ namespace TeleBerço.Datasets.DsStockTableAdapters {
             this._adapter.UpdateCommand.Connection = this.Connection;
             this._adapter.UpdateCommand.CommandText = "UPDATE [dbo].[Armazem] SET [ProdutoID] = @ProdutoID, [Quantidade] = @Quantidade W" +
                 "HERE (([ProdutoID] = @Original_ProdutoID) AND ([Quantidade] = @Original_Quantida" +
-                "de));\r\nSELECT ProdutoID, Quantidade FROM Armazem WHERE (ProdutoID = @ProdutoID)";
+                "de));\nSELECT ProdutoID, Quantidade FROM Armazem WHERE (ProdutoID = @ProdutoID)";
             this._adapter.UpdateCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@ProdutoID", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "ProdutoID", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Quantidade", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Quantidade", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
@@ -1908,9 +1908,9 @@ namespace TeleBerço.Datasets.DsStockTableAdapters {
             this._commandCollection[0].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[1].Connection = this.Connection;
-            this._commandCollection[1].CommandText = "SELECT\r\n   p.Categoria,\r\n    p.Marca,\r\n    p.CodPr ,\r\np.Observacao,\r\n  p.NomeProd" +
-                "uto, a.Quantidade\r\nFROM\r\n    Produtos p\r\nINNER JOIN\r\n    Armazem a ON p.CodPr = " +
-                "a.ProdutoID\r\n";
+            this._commandCollection[1].CommandText = "SELECT\n   p.Categoria,\n    p.Marca,\n    p.CodPr ,\np.Observacao,\n  p.NomeProduto, " +
+                "a.Quantidade\nFROM\n    Produtos p\nINNER JOIN\n    Armazem a ON p.CodPr = a.Produto" +
+                "ID\n";
             this._commandCollection[1].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[2] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[2].Connection = this.Connection;
@@ -2275,9 +2275,9 @@ namespace TeleBerço.Datasets.DsStockTableAdapters {
             this._commandCollection = new global::System.Data.SqlClient.SqlCommand[1];
             this._commandCollection[0] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[0].Connection = this.Connection;
-            this._commandCollection[0].CommandText = "SELECT\r\n   p.Categoria,\r\n    p.Marca,\r\n    p.CodPr ,\r\np.Observacao,\r\n  p.NomeProd" +
-                "uto, a.Quantidade\r\nFROM\r\n    Produtos p\r\nINNER JOIN\r\n    Armazem a ON p.CodPr = " +
-                "a.ProdutoID\r\n";
+            this._commandCollection[0].CommandText = "SELECT\n   p.Categoria,\n    p.Marca,\n    p.CodPr ,\np.Observacao,\n  p.NomeProduto, " +
+                "a.Quantidade\nFROM\n    Produtos p\nINNER JOIN\n    Armazem a ON p.CodPr = a.Produto" +
+                "ID\n";
             this._commandCollection[0].CommandType = global::System.Data.CommandType.Text;
         }
         
@@ -2497,7 +2497,7 @@ SELECT MovimentacaoID, ProdutoID, DataMovimentacao, Quantidade, TipoMovimentacao
             this._commandCollection[2] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[2].Connection = this.Connection;
             this._commandCollection[2].CommandText = "SELECT MovimentacaoID, ProdutoID, DataMovimentacao, Quantidade, TipoMovimentacao," +
-                " nrDocumnto FROM dbo.MovimentacoeStock\r\nwhere ProdutoId=@pr";
+                " nrDocumnto FROM dbo.MovimentacoeStock\nwhere ProdutoId=@pr";
             this._commandCollection[2].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@pr", global::System.Data.SqlDbType.NVarChar, 20, global::System.Data.ParameterDirection.Input, 0, 0, "ProdutoID", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
         }

@@ -2542,9 +2542,9 @@ SELECT ID, TipoDocumento, NrDocumento, Cliente, Total, DataRececao, DataEntrega,
                 "l_Desconto = 1 AND [Desconto] IS NULL) OR ([Desconto] = @Original_Desconto)) AND" +
                 " ((@IsNull_TipoDesconto = 1 AND [TipoDesconto] IS NULL) OR ([TipoDesconto] = @Or" +
                 "iginal_TipoDesconto)) AND ((@IsNull_Fornecedor = 1 AND [Fornecedor] IS NULL) OR " +
-                "([Fornecedor] = @Original_Fornecedor)));\r\nSELECT ID, TipoDocumento, NrDocumento," +
-                " Cliente, Total, DataRececao, DataEntrega, Estado, Observacoes, CodProduto, Desc" +
-                "onto, TipoDesconto, Fornecedor FROM CabecDocumento WHERE (ID = @ID)";
+                "([Fornecedor] = @Original_Fornecedor)));\nSELECT ID, TipoDocumento, NrDocumento, " +
+                "Cliente, Total, DataRececao, DataEntrega, Estado, Observacoes, CodProduto, Desco" +
+                "nto, TipoDesconto, Fornecedor FROM CabecDocumento WHERE (ID = @ID)";
             this._adapter.UpdateCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@ID", global::System.Data.SqlDbType.UniqueIdentifier, 0, global::System.Data.ParameterDirection.Input, 0, 0, "ID", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@TipoDocumento", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "TipoDocumento", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
@@ -2601,20 +2601,19 @@ SELECT ID, TipoDocumento, NrDocumento, Cliente, Total, DataRececao, DataEntrega,
             this._commandCollection[0].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[1].Connection = this.Connection;
-            this._commandCollection[1].CommandText = "SELECT c.Email \r\nFROM Clientes c\r\n INNER JOIN CabecDocumento cd ON c.CodCl = cd.C" +
-                "liente \r\nWHERE cd.Cliente = @valor;";
+            this._commandCollection[1].CommandText = "SELECT c.Email \nFROM Clientes c\n INNER JOIN CabecDocumento cd ON c.CodCl = cd.Cli" +
+                "ente \nWHERE cd.Cliente = @valor;";
             this._commandCollection[1].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@valor", global::System.Data.SqlDbType.NVarChar, 20, global::System.Data.ParameterDirection.Input, 0, 0, "Cliente", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._commandCollection[2] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[2].Connection = this.Connection;
-            this._commandCollection[2].CommandText = "\r\nSELECT* FROM dbo.CabecDocumento where TipoDocumento=@tipo and NrDocumento=@nr\r\n" +
-                "";
+            this._commandCollection[2].CommandText = "\nSELECT* FROM dbo.CabecDocumento where TipoDocumento=@tipo and NrDocumento=@nr\n";
             this._commandCollection[2].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@tipo", global::System.Data.SqlDbType.NVarChar, 10, global::System.Data.ParameterDirection.Input, 0, 0, "TipoDocumento", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@nr", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "NrDocumento", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._commandCollection[3] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[3].Connection = this.Connection;
-            this._commandCollection[3].CommandText = "\r\nSELECT COUNT(TipoDocumento) FROM CabecDocumento where TipoDocumento=@tipo";
+            this._commandCollection[3].CommandText = "\nSELECT COUNT(TipoDocumento) FROM CabecDocumento where TipoDocumento=@tipo";
             this._commandCollection[3].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[3].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@tipo", global::System.Data.SqlDbType.NVarChar, 10, global::System.Data.ParameterDirection.Input, 0, 0, "TipoDocumento", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
         }
@@ -3319,15 +3318,15 @@ SELECT ID, TipoDocumento, NrDocumento, Cliente, Total, DataRececao, DataEntrega,
             this._adapter.InsertCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
             this._adapter.InsertCommand.CommandText = "INSERT INTO [dbo].[TipoDocumentos] ([CodDoc], [Descricao]) VALUES (@CodDoc, @Desc" +
-                "ricao);\r\nSELECT CodDoc, Descricao FROM TipoDocumentos WHERE (CodDoc = @CodDoc)";
+                "ricao);\nSELECT CodDoc, Descricao FROM TipoDocumentos WHERE (CodDoc = @CodDoc)";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@CodDoc", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "CodDoc", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Descricao", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Descricao", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.UpdateCommand.Connection = this.Connection;
             this._adapter.UpdateCommand.CommandText = "UPDATE [dbo].[TipoDocumentos] SET [CodDoc] = @CodDoc, [Descricao] = @Descricao WH" +
-                "ERE (([CodDoc] = @Original_CodDoc) AND ([Descricao] = @Original_Descricao));\r\nSE" +
-                "LECT CodDoc, Descricao FROM TipoDocumentos WHERE (CodDoc = @CodDoc)";
+                "ERE (([CodDoc] = @Original_CodDoc) AND ([Descricao] = @Original_Descricao));\nSEL" +
+                "ECT CodDoc, Descricao FROM TipoDocumentos WHERE (CodDoc = @CodDoc)";
             this._adapter.UpdateCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@CodDoc", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "CodDoc", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Descricao", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Descricao", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
@@ -3788,7 +3787,7 @@ SELECT ID, CabProdutoID, Produto, PrecoUnt, Quantidade, Total, NomeProduto, Obse
             this._commandCollection[0].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[1].Connection = this.Connection;
-            this._commandCollection[1].CommandText = "\r\nSELECT  * FROM dbo.ListaProdutos\r\nWHERE CabProdutoID = @CabecDoc";
+            this._commandCollection[1].CommandText = "\nSELECT  * FROM dbo.ListaProdutos\nWHERE CabProdutoID = @CabecDoc";
             this._commandCollection[1].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@CabecDoc", global::System.Data.SqlDbType.UniqueIdentifier, 16, global::System.Data.ParameterDirection.Input, 0, 0, "CabProdutoID", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
         }

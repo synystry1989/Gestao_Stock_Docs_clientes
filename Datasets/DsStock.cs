@@ -126,7 +126,7 @@ namespace TeleBerço.Datasets
                     ajusteQuantidade = -quantidade;
                     tipoEntrada = "S";
                 }
-                else if  (tipoDocumento.Contains("NDC"))
+                else if (tipoDocumento.Contains("NDC"))
                 {
                     // Para compras e devoluções de clientes, aumentar o estoque
                     ajusteQuantidade = quantidade;
@@ -165,7 +165,7 @@ namespace TeleBerço.Datasets
                 MessageBox.Show($"Stock atualizdo com sucesso! {produtoID}.");
                 UpdateStock();
             }
-          
+
 
         }
         public void RegistrarMovimentacao(string produtoID, int quantidade, string tipoMovimento, DateTime date, string nrDoc)
