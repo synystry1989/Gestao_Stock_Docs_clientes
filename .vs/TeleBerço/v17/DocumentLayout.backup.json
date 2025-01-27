@@ -3,32 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|c:\\users\\user\\onedrive\\documents\\github\\gestaostock_docs_clientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TeleBer\u00E7o||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsdocumentos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsdocumentos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsprodutos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsprodutos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsstock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsstock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsprodutos.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsprodutos.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsprodutos.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsprodutos.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -41,10 +80,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +98,6 @@
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,20 +114,12 @@
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmcat_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmcat_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmcat_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmcat_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,6 +132,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\datasets\\dsstock.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:datasets\\dsstock.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|c:\\users\\user\\onedrive\\documents\\github\\gestaostock_docs_clientes\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,35 +145,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "FrmDados.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmDados.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.cs",
               "RelativeToolTip": "Formularios\\FrmDados.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwJICAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAzwKoBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T23:30:28.084Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "FrmProdutos.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmProdutos.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmProdutos.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmProdutos.cs",
               "RelativeToolTip": "Formularios\\FrmProdutos.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAADwv0YAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAALoAAAAAAAAAAAAewMcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T22:06:49.87Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -169,8 +194,63 @@
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DsStock.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsStock.Designer.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsStock.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsStock.Designer.cs",
+              "RelativeToolTip": "Datasets\\DsStock.Designer.cs",
+              "ViewState": "AgIAAOIKAAAAAAAAAAAMwPMKAADAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:49:48.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeleBer\u00E7o",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\TeleBer\u00E7o.csproj",
+              "RelativeDocumentMoniker": "TeleBer\u00E7o.csproj",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\TeleBer\u00E7o.csproj",
+              "RelativeToolTip": "TeleBer\u00E7o.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-27T18:47:58.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DsClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsClientes.Designer.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsClientes.Designer.cs",
+              "RelativeToolTip": "Datasets\\DsClientes.Designer.cs",
+              "ViewState": "AgIAAIsHAAAAAAAAAAAewJ0HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:45:01.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DsProdutos.xsd",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.xsd",
+              "RelativeDocumentMoniker": "Datasets\\DsProdutos.xsd",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.xsd",
+              "RelativeToolTip": "Datasets\\DsProdutos.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-27T16:44:05.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DsProdutos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.Designer.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsProdutos.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.Designer.cs",
+              "RelativeToolTip": "Datasets\\DsProdutos.Designer.cs",
+              "ViewState": "AgIAAOgKAAAAAAAAAAAewPQKAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:43:12.127Z"
             },
             {
               "$type": "Document",
@@ -180,14 +260,108 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwFAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T22:03:47.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "DsDocumentos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.Designer.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsDocumentos.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.Designer.cs",
+              "RelativeToolTip": "Datasets\\DsDocumentos.Designer.cs",
+              "ViewState": "AgIAAEYJAAAAAAAAAAAMwFcJAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:03:35.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmDocumentos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDocumentos.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmDocumentos.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDocumentos.cs",
+              "RelativeToolTip": "Formularios\\FrmDocumentos.cs",
+              "ViewState": "AgIAAHADAAAAAAAAAAAnwIMDAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:03:49.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T15:18:10.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmProdutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmProdutos.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmProdutos.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmProdutos.cs [Design]",
+              "RelativeToolTip": "Formularios\\FrmProdutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:29:21.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DsProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsProdutos.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.cs",
+              "RelativeToolTip": "Datasets\\DsProdutos.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAnwEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:00:38.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DsDocumentos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.cs",
+              "RelativeDocumentMoniker": "Datasets\\DsDocumentos.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.cs*",
+              "RelativeToolTip": "Datasets\\DsDocumentos.cs*",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAnwIMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:58:03.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DsProdutos.xsd",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.xsd",
+              "RelativeDocumentMoniker": "Datasets\\DsProdutos.xsd",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.xsd",
+              "RelativeToolTip": "Datasets\\DsProdutos.xsd",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAKAAAAAxAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-27T16:50:24.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmDados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmDados.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.cs [Design]",
+              "RelativeToolTip": "Formularios\\FrmDados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:34:10.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
@@ -200,82 +374,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmDados.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.cs",
-              "RelativeDocumentMoniker": "Formularios\\FrmDados.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.cs [Design]",
-              "RelativeToolTip": "Formularios\\FrmDados.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:34:10.511Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DsDocumentos.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.Designer.cs",
-              "RelativeDocumentMoniker": "Datasets\\DsDocumentos.Designer.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.Designer.cs",
-              "RelativeToolTip": "Datasets\\DsDocumentos.Designer.cs",
-              "ViewState": "AgIAAJ4OAABAbNBk6CEXwL8OAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:03:35.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmDocumentos.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDocumentos.cs",
-              "RelativeDocumentMoniker": "Formularios\\FrmDocumentos.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDocumentos.cs",
-              "RelativeToolTip": "Formularios\\FrmDocumentos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:03:49.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmProdutos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmProdutos.cs",
-              "RelativeDocumentMoniker": "Formularios\\FrmProdutos.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmProdutos.cs [Design]",
-              "RelativeToolTip": "Formularios\\FrmProdutos.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:29:21.873Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-22T15:18:10.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "FrmStock.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmStock.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmStock.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmStock.cs [Design]",
               "RelativeToolTip": "Formularios\\FrmStock.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:51:02.782Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-08T15:51:02.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "FrmClientes.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmClientes.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmClientes.cs",
@@ -283,12 +393,11 @@
               "RelativeToolTip": "Formularios\\FrmClientes.cs",
               "ViewState": "AgIAAC8BAAAAAAAAAAAWwEcBAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:57:32.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T23:57:32.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmLogin.cs",
@@ -296,24 +405,22 @@
               "RelativeToolTip": "Formularios\\FrmLogin.cs",
               "ViewState": "AgIAAB4AAADATb5MNQvovzQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:13:24.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T23:13:24.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "FrmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmLogin.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmLogin.cs [Design]",
               "RelativeToolTip": "Formularios\\FrmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T07:47:52.44Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-10T07:47:52.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "FrmStock.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmStock.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmStock.cs",
@@ -321,74 +428,68 @@
               "RelativeToolTip": "Formularios\\FrmStock.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAwwPsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:17:16.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T03:17:16.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "FrmDocumentos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDocumentos.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmDocumentos.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDocumentos.cs [Design]",
               "RelativeToolTip": "Formularios\\FrmDocumentos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:41:42.823Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-07T23:41:42.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "FrmDados.Designer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.Designer.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmDados.Designer.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.Designer.cs",
               "RelativeToolTip": "Formularios\\FrmDados.Designer.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAADgv3kAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T21:54:00.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T21:54:00.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "FrmClientes.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmClientes.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmClientes.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmClientes.cs [Design]",
               "RelativeToolTip": "Formularios\\FrmClientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:56:18.822Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-07T23:56:18.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "DsClientes.xsd",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsClientes.xsd",
               "RelativeDocumentMoniker": "Datasets\\DsClientes.xsd",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsClientes.xsd",
-              "RelativeToolTip": "Datasets\\DsClientes.xsd",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsClientes.xsd*",
+              "RelativeToolTip": "Datasets\\DsClientes.xsd*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-01-07T18:50:38.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T18:50:38.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "DsClientes.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsClientes.cs",
               "RelativeDocumentMoniker": "Datasets\\DsClientes.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsClientes.cs",
-              "RelativeToolTip": "Datasets\\DsClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsClientes.cs*",
+              "RelativeToolTip": "Datasets\\DsClientes.cs*",
               "ViewState": "AgIAAIMAAAAAAAAAAAAswLoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:50:41.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T18:50:41.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "FrmLogin.Designer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmLogin.Designer.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmLogin.Designer.cs",
@@ -396,50 +497,35 @@
               "RelativeToolTip": "Formularios\\FrmLogin.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T22:36:52.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T22:36:52.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "FrmCat_Marca.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmCat_Marca.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmCat_Marca.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmCat_Marca.cs [Design]",
               "RelativeToolTip": "Formularios\\FrmCat_Marca.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:02:06.576Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-09T01:02:06.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "DsStock.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsStock.cs",
               "RelativeDocumentMoniker": "Datasets\\DsStock.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsStock.cs",
               "RelativeToolTip": "Datasets\\DsStock.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAywG8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv28AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T21:50:06.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DsProdutos.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.cs",
-              "RelativeDocumentMoniker": "Datasets\\DsProdutos.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsProdutos.cs",
-              "RelativeToolTip": "Datasets\\DsProdutos.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAADwv8oAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:00:38.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "FrmCat_Marca.cs",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmCat_Marca.cs",
               "RelativeDocumentMoniker": "Formularios\\FrmCat_Marca.cs",
@@ -447,45 +533,29 @@
               "RelativeToolTip": "Formularios\\FrmCat_Marca.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAswJ0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:02:08.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T01:02:08.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DsDocumentos.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.cs",
-              "RelativeDocumentMoniker": "Datasets\\DsDocumentos.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.cs",
-              "RelativeToolTip": "Datasets\\DsDocumentos.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAASwEwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:58:03.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "DsDocumentos.xsd",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.xsd",
               "RelativeDocumentMoniker": "Datasets\\DsDocumentos.xsd",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.xsd",
-              "RelativeToolTip": "Datasets\\DsDocumentos.xsd",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.xsd*",
+              "RelativeToolTip": "Datasets\\DsDocumentos.xsd*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-01-07T21:57:57.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:57:57.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "DsStock.xsd",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsStock.xsd",
               "RelativeDocumentMoniker": "Datasets\\DsStock.xsd",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsStock.xsd",
-              "RelativeToolTip": "Datasets\\DsStock.xsd",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsStock.xsd*",
+              "RelativeToolTip": "Datasets\\DsStock.xsd*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-01-07T21:49:51.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:49:51.721Z"
             }
           ]
         }

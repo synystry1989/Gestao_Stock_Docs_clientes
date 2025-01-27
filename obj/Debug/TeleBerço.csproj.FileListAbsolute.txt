@@ -663,5 +663,9 @@ C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Reso
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\business_man_user_support_supportfortheuser_aquestion_theclient_2330 (1).png
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\file_archive_storage_folder_document_files_icon_228416.png
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\buscar.png
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\Gestao&Stock_TB2017.sql
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\SQL2022.exe
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.bouncy-castle-fips-adapter.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\bcpkix-fips-1.0.2.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\bc-fips-1.0.2.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\itext.bouncy-castle-fips-adapter.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\Gestao&Stock_TB2017.sql
