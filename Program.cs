@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace TeleBerço
@@ -16,7 +13,7 @@ namespace TeleBerço
         [STAThread]
         static void Main()
         {
-            
+
 
             // Criar o banco de dados antes de carregar o formulário principal
             try
@@ -38,36 +35,87 @@ namespace TeleBerço
         {
             // Caminho do script SQL na pasta Resources
             string scriptPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Resources", "Gestao&Stock_TB2017.sql");
-
+            string nomeBanco = "DB_TeleBerco2017";
             // Verificar se o arquivo existe
             if (!File.Exists(scriptPath))
             {
-                throw new FileNotFoundException("O arquivo CriarBase.sql não foi encontrado na pasta Resources.");
+                throw new FileNotFoundException("O arquivo Gestao&Stock_TB2017.sql não foi encontrado na pasta Resources.");
             }
 
             try
             {
-                // String de conexão ao banco 'master'
+                // String de conexão ao banco 'master' para criação do banco de dados
                 string masterConnectionString = $"Server={nomeServidor};Database=master;Integrated Security=True;Encrypt=True;TrustServerCertificate=True;";
 
                 // Ler o script SQL
                 string script = File.ReadAllText(scriptPath);
 
-                // Executar o script para criar o banco
+                // Dividir o script com base no "GO"
+                string[] commands = script.Split(new[] { "GO" }, StringSplitOptions.RemoveEmptyEntries);
+
                 using (SqlConnection connection = new SqlConnection(masterConnectionString))
                 {
                     connection.Open();
-                    using (SqlCommand command = new SqlCommand(script, connection))
+
+                    foreach (var command in commands)
+                    {
+                        if (!string.IsNullOrWhiteSpace(command))
+                        {
+                            using (SqlCommand sqlCommand = new SqlCommand(command, connection))
+                            {
+                                sqlCommand.ExecuteNonQuery();
+                            }
+                        }
+                    }
+                }
+
+                Console.WriteLine("Banco de dados configurado com sucesso!");
+
+
+                // Atualizar a string de conexão para o banco recém-criado
+                AtualizarStringConexao(nomeServidor,nomeBanco);
+
+                string scriptDados = @"
+            USE DB_Teleberco2017;
+
+            -- Criar a tabela TipoDocumentos
+            IF NOT EXISTS (SELECT * FROM sys.tables WHERE name = 'TipoDocumentos')
+            BEGIN
+                CREATE TABLE TipoDocumentos (
+                    Id INT IDENTITY(1,1) PRIMARY KEY,
+                    Nome NVARCHAR(50) NOT NULL,
+                    Descricao NVARCHAR(255) NOT NULL
+                );
+            END;
+
+            -- Inserir os valores na tabela TipoDocumentos
+            INSERT INTO TipoDocumentos (Nome, Descricao)
+            VALUES 
+                ('FTC', 'Fatura Cliente'),
+                ('NDC', 'Nota Devolução Cliente'),
+                ('NDF', 'Nota Devolução Fornecedor'),
+                ('EDC', 'Encomenda de Cliente'),
+                ('EDF', 'Encomenda de Fornecedor'),
+                ('ORC', 'Orçamento');
+        ";
+
+
+                // String de conexão ao banco DB_Teleberco2017
+                string connectionString = $"Server={nomeServidor};Database={nomeBanco};Integrated Security=True;Encrypt=True;TrustServerCertificate=True;";
+
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    connection.Open();
+                    using (SqlCommand command = new SqlCommand(scriptDados, connection))
                     {
                         command.ExecuteNonQuery();
                     }
                 }
 
-                Console.WriteLine("Banco de dados criado com sucesso!");
-
-                // Atualizar a string de conexão para o banco recém-criado
-                AtualizarStringConexao(nomeServidor);
+                Console.WriteLine("Tabela TipoDocumentos criada e registros inseridos com sucesso!");
             }
+
+
             catch (Exception ex)
             {
                 Console.WriteLine($"Erro ao configurar o banco de dados: {ex.Message}");
@@ -75,10 +123,10 @@ namespace TeleBerço
             }
         }
 
-        private static void AtualizarStringConexao(string nomeServidor)
+        private static void AtualizarStringConexao(string nomeServidor, string nomeBanco)
         {
             // Nome fixo do banco de dados criado
-            string nomeBanco = "DB_TeleBerco2017";
+            
 
             // Nova string de conexão com o banco de dados criado
             string novaStringConexao = $"Server={nomeServidor};Database={nomeBanco};Integrated Security=True;Encrypt=True;TrustServerCertificate=True;";

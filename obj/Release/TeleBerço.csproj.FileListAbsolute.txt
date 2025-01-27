@@ -1,3 +1,4 @@
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\Resources\Gestao&Stock_TB2017.sql
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\Resources\Morada2.jpeg
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\Resources\transferir.jpeg
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\Resources\teleberço.png
@@ -106,5 +107,4 @@ C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Release\Te
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Release\TeleBerço.csproj.Up2Date
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Release\TeleBerço.exe
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Release\TeleBerço.pdb
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\Resources\Gestao&Stock_TB2017.sql
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\Resources\SQL2022.exe
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\SQL2022.exe

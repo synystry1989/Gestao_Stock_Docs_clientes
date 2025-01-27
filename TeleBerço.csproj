@@ -447,7 +447,7 @@
     <Content Include="Resources\Morada2.jpeg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Resources\SQL2022.exe">
+    <Content Include="SQL2022.exe">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

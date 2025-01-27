@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|c:\\users\\user\\onedrive\\documents\\github\\gestaostock_docs_clientes\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|c:\\users\\user\\onedrive\\documents\\github\\gestaostock_docs_clientes\\formularios\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\formularios\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CDB22B5F-D36F-40A8-9B0F-6FED0784676E}|TeleBer\u00E7o.csproj|solutionrelative:formularios\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -131,8 +131,7 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwJICAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T23:30:28.084Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -145,21 +144,7 @@
               "ViewState": "AgIAAEoAAAAAAAAAAADwv0YAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T22:06:49.87Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T22:14:23.274Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -169,14 +154,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T22:03:47.944Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Bookmark",
@@ -200,6 +181,22 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:14:23.274Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FrmDados.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.cs",
@@ -207,8 +204,7 @@
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDados.cs [Design]",
               "RelativeToolTip": "Formularios\\FrmDados.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:34:10.511Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-07T23:34:10.511Z"
             },
             {
               "$type": "Document",
@@ -220,8 +216,7 @@
               "RelativeToolTip": "Datasets\\DsDocumentos.Designer.cs",
               "ViewState": "AgIAAJ4OAABAbNBk6CEXwL8OAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:03:35.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T22:03:35.405Z"
             },
             {
               "$type": "Document",
@@ -233,8 +228,7 @@
               "RelativeToolTip": "Formularios\\FrmDocumentos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:03:49.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T22:03:49.282Z"
             },
             {
               "$type": "Document",
@@ -245,8 +239,7 @@
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmProdutos.cs [Design]",
               "RelativeToolTip": "Formularios\\FrmProdutos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:29:21.873Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-08T03:29:21.873Z"
             },
             {
               "$type": "Document",
@@ -258,8 +251,7 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-22T15:18:10.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T15:18:10.833Z"
             },
             {
               "$type": "Document",
@@ -270,8 +262,7 @@
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmStock.cs [Design]",
               "RelativeToolTip": "Formularios\\FrmStock.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:51:02.782Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-08T15:51:02.782Z"
             },
             {
               "$type": "Document",
@@ -318,8 +309,7 @@
               "RelativeToolTip": "Formularios\\FrmStock.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAwwPsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:17:16.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T03:17:16.367Z"
             },
             {
               "$type": "Document",
@@ -330,8 +320,7 @@
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Formularios\\FrmDocumentos.cs [Design]",
               "RelativeToolTip": "Formularios\\FrmDocumentos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:41:42.823Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-07T23:41:42.823Z"
             },
             {
               "$type": "Document",
@@ -343,8 +332,7 @@
               "RelativeToolTip": "Formularios\\FrmDados.Designer.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAADgv3kAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T21:54:00.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T21:54:00.101Z"
             },
             {
               "$type": "Document",
@@ -425,8 +413,7 @@
               "RelativeToolTip": "Datasets\\DsProdutos.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAADwv8oAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:00:38.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T01:00:38.269Z"
             },
             {
               "$type": "Document",
@@ -450,8 +437,7 @@
               "RelativeToolTip": "Datasets\\DsDocumentos.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAASwEwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:58:03.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:58:03.936Z"
             },
             {
               "$type": "Document",
@@ -462,8 +448,7 @@
               "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\GitHub\\GestaoStock_Docs_clientes\\Datasets\\DsDocumentos.xsd",
               "RelativeToolTip": "Datasets\\DsDocumentos.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-01-07T21:57:57.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:57:57.76Z"
             },
             {
               "$type": "Document",
