@@ -353,12 +353,6 @@ C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Micr
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Microsoft.Extensions.Primitives.dll
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MimeKit.dll
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Newtonsoft.Json.dll
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Charting.dll
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.dll
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Quality.dll
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Snippets.dll
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.System.dll
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.WPFonts.dll
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Buffers.dll
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Formats.Asn1.dll
@@ -393,17 +387,6 @@ C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Micr
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MimeKit.pdb
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\MimeKit.xml
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Newtonsoft.Json.xml
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.pdb
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.xml
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Charting.pdb
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Charting.xml
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Quality.pdb
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Quality.xml
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.Snippets.pdb
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.System.pdb
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.System.xml
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.WPFonts.pdb
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\PdfSharp.WPFonts.xml
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Buffers.xml
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Formats.Asn1.xml
@@ -412,8 +395,6 @@ C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Syst
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\System.ValueTuple.xml
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\de\PdfSharp.resources.dll
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\de\PdfSharp.Charting.resources.dll
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.csproj.AssemblyReference.cache
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmCat_Marca.resources
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Debug\TeleBerço.FrmClientes.resources
@@ -682,3 +663,5 @@ C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Reso
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\business_man_user_support_supportfortheuser_aquestion_theclient_2330 (1).png
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\file_archive_storage_folder_document_files_icon_228416.png
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\buscar.png
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\Resources\Gestao&Stock_TB2017.sql
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Debug\SQL2022.exe
