@@ -107,4 +107,11 @@ C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Release\Te
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Release\TeleBerço.csproj.Up2Date
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Release\TeleBerço.exe
 C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\obj\Release\TeleBerço.pdb
-C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\SQL2022.exe
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\zlib.net.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\bc-fips-1.0.2.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\bcpkix-fips-1.0.2.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\itext.bouncy-castle-adapter.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\itext.bouncy-castle-fips-adapter.dll
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\itext.bouncy-castle-adapter.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\itext.bouncy-castle-fips-adapter.xml
+C:\Users\USER\OneDrive\Documents\GitHub\GestaoStock_Docs_clientes\bin\Release\Resources\teleberço.ico
